@@ -26,5 +26,12 @@
     "name": "alcyoneus",
     "symbol": "ALC",
     "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xdd54d9018c1362CE5dabfEC8d144183F457662fB",
+    "name": "0xDogma",
+    "symbol": "0XVX0",
+    "decimals": 18
   }
 ]
