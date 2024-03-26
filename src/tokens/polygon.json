@@ -33,5 +33,12 @@
     "symbol": "K3D",
     "decimals": 18,
     "chainId": 137
+  },
+  {
+    "name": "spank",
+    "address": "0x75aDC8460Ffd27E4C2B60A0be44a22F82F183aEF",
+    "symbol": "SPANK",
+    "decimals": 18,
+    "chainId": 137
   }
 ]
