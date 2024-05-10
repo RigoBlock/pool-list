@@ -40,5 +40,12 @@
     "name": "sonic",
     "symbol": "ZKBTC",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x942B38784E6Cf2d8cc039134F6cE8368b3358916",
+    "name": "2025 Top",
+    "symbol": "GRG25",
+    "decimals": 18
   }
 ]
