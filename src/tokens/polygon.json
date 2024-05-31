@@ -40,5 +40,26 @@
     "symbol": "SPANK",
     "decimals": 18,
     "chainId": 137
+  },
+  {
+    "name": "KINGPAPA BLACK",
+    "address": "0x6ae96E1c7648Bd230539DF0fa6d63B18164e0056",
+    "symbol": "KPAPA",
+    "decimals": 18,
+    "chainId": 137
+  },
+  {
+    "name": "KINGPAPAX",
+    "address": "0x9062c56152Cd7C6018B9Fd1fc3719FAF394C3E5C",
+    "symbol": "XPAPA",
+    "decimals": 18,
+    "chainId": 137
+  },
+  {
+    "name": "KINGPAPA",
+    "address": "0x4Ee5faf074d556850A5693Dad179f3d68a1353E9",
+    "symbol": "GRGK",
+    "decimals": 18,
+    "chainId": 137
   }
 ]
