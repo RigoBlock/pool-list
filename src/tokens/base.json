@@ -47,5 +47,12 @@
     "name": "2025 Top",
     "symbol": "GRG25",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd42F6c8be25438E374c3368fa777D5c4662A3435",
+    "name": "2Birdnest",
+    "symbol": "BDN",
+    "decimals": 18
   }
 ]
