@@ -55,5 +55,12 @@
     "symbol": "BNR",
     "decimals": 18,
     "chainId": 1
+  },
+  {
+    "name": "Satoshi Brian Pool",
+    "address": "0x9AAfAD14966cf7555409fD05a55B04c581Eb2875",
+    "symbol": "GRG",
+    "decimals": 18,
+    "chainId": 1
   }
 ]
