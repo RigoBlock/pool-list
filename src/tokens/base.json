@@ -54,5 +54,12 @@
     "name": "2Birdnest",
     "symbol": "BDN",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFDBc68b21d80e9426C384087cA05789b8D452642",
+    "name": "Pool 1",
+    "symbol": "NORM",
+    "decimals": 18
   }
 ]
