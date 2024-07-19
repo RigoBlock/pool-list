@@ -62,5 +62,12 @@
     "symbol": "GRG",
     "decimals": 18,
     "chainId": 1
+  },
+  {
+    "name": "TRUMPAPY",
+    "address": "0x5c4B21FA4ea5a5Cc41Be5B650b67992143703f28",
+    "symbol": "TRUMP",
+    "decimals": 18,
+    "chainId": 1
   }
 ]
